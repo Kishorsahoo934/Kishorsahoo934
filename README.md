@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishor Kumar Sahoo
 
-<!--
-**Kishorsahoo934/Kishorsahoo934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Java & Python Developer | 🌱 Data Science Enthusiast  
+🏆 Codathon Winner | 🧠 Learning Deep Learning & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🥔 Potato Disease Classification using CNN and Streamlit
+- 🎙️ Voice Assistant for Banking with BERT & Django
+- 📊 Population & GDP Growth Prediction using Regression
+
+---
+
+## 🛠️ Skills
+- Languages: Java, Python, C
+- Web: HTML, CSS, JS, Django
+- Data: Pandas, NumPy, Matplotlib
+- ML: Scikit-learn, TensorFlow, OpenCV
+
+---
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.site)
