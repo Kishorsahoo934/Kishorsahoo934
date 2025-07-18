@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kishor Kumar Sahoo
 
 🎓 B.Tech Student | 💻 Java & Python Developer | 🌱 Data Science Enthusiast  
-🏆 Codathon Winner | 🧠 Learning Deep Learning & AI
+ | 🧠 Learning Deep Learning & AI
 
 ---
 
