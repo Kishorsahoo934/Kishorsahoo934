@@ -5,10 +5,7 @@
 
 ---
 
-## 🚀 Projects
-- 🥔 Potato Disease Classification using CNN and Streamlit
-- 🎙️ Voice Assistant for Banking with BERT & Django
-- 📊 Population & GDP Growth Prediction using Regression
+
 
 ---
 
@@ -21,5 +18,5 @@
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kishor-kumar-sahoo-1052b2294/]))
 - [Portfolio](https://yourportfolio.site)
