@@ -19,4 +19,4 @@
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kishor-kumar-sahoo-1052b2294/)
-- [Portfolio](https://dazzling-digital-display-97.lovable.app)
+- [Portfolio](https://kishor-kumar-sahoo-portfolio.lovable.app)
