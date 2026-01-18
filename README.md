@@ -11,9 +11,10 @@
 
 ## 🛠️ Skills
 - Languages: Java, Python, C
-- Web: HTML, CSS, JS, Django
-- Data: Pandas, NumPy, Matplotlib
-- ML: Scikit-learn, TensorFlow, OpenCV
+- Web: HTML, CSS, JS, Django,FASTAPI
+- Data: Pandas, NumPy, Matplotlib,Seaborn
+- ML: Scikit-learn, TensorFlow, OpenCV,Pytorch
+- GENAI-RAG
 
 ---
 
