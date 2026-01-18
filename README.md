@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishor Kumar Sahoo
 
-🎓 B.Tech Student | 💻 Java & Python Developer | 🌱 Data Science Enthusiast  
+🎓 B.Tech Student | 💻  Python Developer | 🌱 Data Science Enthusiast  
  | 🧠 Learning Deep Learning & AI
 
 ---
